@@ -220,7 +220,7 @@ const [formData, setFormData] = useState({
                   Get Expert Help, Fast.
                 </a>
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+919820507696"
                   className="border-2 border-teal-600 text-teal-600 px-8 py-4 rounded-lg font-semibold hover:bg-teal-600 hover:text-white transition-colors text-center"
                 >
                   Call: +91 98205 07696
@@ -618,3 +618,4 @@ const [formData, setFormData] = useState({
 };
 
 export default Home;
+
